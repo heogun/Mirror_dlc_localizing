@@ -6,6 +6,9 @@ Mirror DLC 한글화 프로젝트
 ## 파일 설명
 
 Sys_Story.dat : resource.assets에서 추출한 원본 파일입니다.
+
+
+
 script.txt : Sys_Story.dat에서 대사만 추출한 텍스트 파일입니다.
 
 ## 적용 방법
