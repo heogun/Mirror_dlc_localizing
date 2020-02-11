@@ -30,7 +30,7 @@ Mirror DLC 한글화 프로젝트
 ![08](/img/08.png)
 
 9. 저장할 파일 이름을 resources로 바꾼 뒤 저장하여 주십시오.
-![09](/img/09)
+![09](/img/09.png)
 
 10. 변경된 resource.assets을 Mirror가 설치된 경로에 복사 후 붙여넣기 해주십시오.
 
