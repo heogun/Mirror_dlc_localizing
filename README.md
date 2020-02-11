@@ -3,6 +3,11 @@ Mirror DLC 한글화 프로젝트
 
 이 프로젝트는 Mirror의 DLC를 한글로 즐기기 위해 만든 프로젝트입니다.
 
+## 파일 설명
+
+Sys_Story.dat : resource.assets에서 추출한 원본 파일입니다.
+script.txt : Sys_Story.dat에서 대사만 추출한 텍스트 파일입니다.
+
 ## 적용 방법
 
 1. [UABE][https://github.com/DerPopo/UABE/releases] 를 다운 받은 뒤 압축을 풀어주십시오.
